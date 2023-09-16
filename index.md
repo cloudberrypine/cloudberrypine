@@ -1,7 +1,7 @@
 ---
 layout: home
 title: CLOUDBERRY PINE
-subtitle: We create relaxing digital experiences inspired by nature
+subtitle: I create relaxing digital experiences inspired by nature
 ---
 
 ## <center>Portfolio</center>

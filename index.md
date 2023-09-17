@@ -6,7 +6,7 @@ subtitle: I create relaxing digital experiences inspired by nature
 
 ## <center>Portfolio</center>
 ### Mobile Game - Longest River
-I created a mobile puzzle game where stones are used to create the longest river flow. It features watercolor inspired visuals and relaxing piano music.
+I created a mobile puzzle game where stones are used to create the longest river flow. It features watercolor inspired visuals and relaxing piano music. Click <a href="https://develophant.com">here</a> for more info.
 <center>
 <a href="https://develophant.com">
   <img src="/assets/img/longest_river.jpg" alt="Longest River App" style="width:300px;">

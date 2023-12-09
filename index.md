@@ -3,8 +3,6 @@ layout: home
 title: CLOUDBERRY PINE
 subtitle: I create relaxing digital experiences inspired by nature
 ---
-
-## <center>Portfolio</center>
 ### PolyPine - A nature simulation game
 I'm currenty developing a game where you build your own forest. It's a simulation sandbox game where you grow plants and design habitats for 100s of species. You can read more about it on Steam <a href="https://store.steampowered.com/app/2718240/PolyPine/">here.</a>
 <center>
@@ -15,7 +13,7 @@ I'm currenty developing a game where you build your own forest. It's a simulatio
 </center>
 <div class="ml-embedded" data-form="SGu6sZ"></div>
 <br/>
-### Longest River - A mobile game
+### Longest River - A mobile puzzle game
 I created a mobile puzzle game where stones are used to create the longest river flow. It features watercolor inspired visuals and relaxing piano music. Click <a href="https://develophant.com">here</a> for more info.
 <center>
 <a href="https://develophant.com">

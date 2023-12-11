@@ -45,9 +45,9 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hello@develophant.com"
+  email: "hello@cloudberrypine.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: anton.holmberg1
+  #facebook: anton.holmberg1
   youtube: \@antonholmberg_?si=wNvxNdMOa7ncA1oP
 #  medium: yourname
 #  reddit: yourname

@@ -34,11 +34,11 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>ebdf50e6-9732-424b-93b4-e1454d44c2d5</string>
+				<string>e3808410-32fd-4d24-97e6-6702c6d4a7e3</string>
 				<key>dateExpires</key>
 				<string>2025-01-19</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.cloudberrypine.polypine</string>
+				<string>AdHoc Pre</string>
 			</dict>
 			<key>team</key>
 			<dict>

@@ -9,16 +9,23 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://www.cloudberrypine.com/assets/apps/polypine.ipa</string>
+		<string>https://cloudberrypine.com/assets/apps/PolyPine.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://www.cloudberrypine.com/assets/apps/polypine57x57.png</string>
+		<string>https://cloudberrypine.com/assets/apps/PolyPine57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://www.cloudberrypine.com/assets/apps/polypine512x512.png</string>
+		<string>https://cloudberrypine.com/assets/apps/PolyPine512.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.cloudberrypine.polypine</key>
+		<string>AdHoc Pre</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>Apple Distribution</string>
 	<key>signingStyle</key>
-	<string>automatic</string>
+	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>

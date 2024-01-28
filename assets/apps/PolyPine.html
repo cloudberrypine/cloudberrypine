@@ -56,6 +56,11 @@
             else {
                 setLanguageIndex(0)
             }
+            var setIsTouchDevice = Module.cwrap('setIsTouchDevice', 'void', [])
+            var touchDeviceBool = ('ontouchstart' in document.documentElement)
+            if (touchDeviceBool) {
+                setIsTouchDevice();
+            }
         }],
         print: (function() {
             return function(text) {

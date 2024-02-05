@@ -2,6 +2,7 @@
 <html lang="en-us">
 <head>
     <link rel="icon" type="image/x-icon" href="PolyPine_favicon.png">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
 
     <!--
     Uncomment the lines below if you want to enable the "Add to Home Screen" prompt on iOS devices.
@@ -38,10 +39,54 @@
             image-rendering: crisp-edges;
             -ms-interpolation-mode: nearest-neighbor;
         }
+        .centered {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            -ms-transform: translate(-50%,-50%);
+            transform: translate(-50%,-50%);
+            color: white;
+            font-size: 1.2rem;
+        }
+        .bottom_right_edge {
+            position: absolute;
+            top: 100%;
+            left: 100%;
+            -ms-transform: translate(-100%,-100%);
+            transform: translate(-100%,-100%);
+            color: white;
+            font-size: 1.2rem;
+            border-right: 20px solid transparent;
+            border-bottom: 10px solid transparent;
+            white-space: nowrap;
+        }
+        a:link { 
+          text-decoration: none; 
+        } 
+        a:visited { 
+          text-decoration: none; 
+        } 
+        a:hover { 
+          text-decoration: none; 
+        } 
+        a:active { 
+          text-decoration: none; 
+        }
+        .linky {
+            margin-left: 13px;
+            padding: 0px;
+            font-size:20px;
+            color:white;
+        }
     </style>
 </head>
 <body>
+<p class="centered">Loading...</p>
 <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()"></canvas>
+<div class="bottom_right_edge">
+<a href="https://store.steampowered.com/app/2718240/PolyPine/" target="_blank" class="fa fa-steam linky"></p>
+<a href="https://discord.com/invite/tskqnZn6An" target="_blank" class="fa fa-discord linky"></p>
+</div>
 <script type='text/javascript'>
     var Module = {
         preRun: [],

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: CLOUDBERRY PINE
-subtitle: I create relaxing digital experiences inspired by nature
+subtitle: I create relaxing games inspired by nature
 ---
 <center>
 <a href="https://store.steampowered.com/app/2718240/PolyPine/">

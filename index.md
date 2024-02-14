@@ -3,7 +3,14 @@ layout: home
 title: CLOUDBERRY PINE
 subtitle: I create relaxing digital experiences inspired by nature
 ---
+<center>
+<a href="https://store.steampowered.com/app/2718240/PolyPine/">
+  <img src="/assets/img/polypine_welcome_logo_top.png" alt="PolyPine Screenshot" style="width:500px;">
+</a>
+</center>
 ### PolyPine - A nature simulation game
+<a href="PolyPine_Press_Kit.html">PRESS KIT</a>
+<br/>
 I'm currenty developing a game where you build your own forest. It's a simulation sandbox game where you grow plants and design habitats for 100s of species. You can read more about it on Steam <a href="https://store.steampowered.com/app/2718240/PolyPine/">here.</a>
 <center>
 

@@ -11,7 +11,7 @@ subtitle: I create relaxing games inspired by nature
 ### PolyPine - A nature simulation game
 <a href="PolyPine_Press_Kit.html">PRESS KIT</a><br/>
 <br/>
-I'm currenty developing a game where you build your own forest. It's a simulation sandbox game where you grow plants and design habitats for 100s of species. You can read more about it on Steam <a href="https://store.steampowered.com/app/2718240/PolyPine/">here.</a>
+I'm currenty developing a game where you build your own forest. It's a simulation sandbox game where you grow plants and design habitats for a wide range of species. You can read more about it on Steam <a href="https://store.steampowered.com/app/2718240/PolyPine/">here.</a>
 <p>
 <a href="https://store.steampowered.com/app/2718240/PolyPine/">PLAY THE DEMO ON STEAM</a>
 </p>

@@ -21,7 +21,6 @@ I'm currenty developing a game where you build your own forest. It's a simulatio
   <img src="/assets/img/polypine_screenshot.jpg" alt="PolyPine Screenshot" style="width:300px;">
 </a>
 </center>
-<div class="ml-embedded" data-form="SGu6sZ"></div>
 <br/>
 ### Longest River - A mobile puzzle game
 I created a mobile puzzle game where stones are used to create the longest river flow. It features watercolor inspired visuals and relaxing piano music. Click <a href="https://develophant.com">here</a> for more info.

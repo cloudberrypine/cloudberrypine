@@ -5,7 +5,7 @@ subtitle: I create relaxing games inspired by nature
 ---
 <center>
 <a href="https://store.steampowered.com/app/2718240/PolyPine/">
-  <img src="/assets/img/polypine_welcome_logo_top.png" alt="PolyPine Screenshot" style="width:500px;">
+  <img src="/assets/img/polypine_welcome_logo_top.png" alt="PolyPine Screenshot" style="max-width:600px;">
 </a>
 </center>
 ### PolyPine - A nature simulation game
@@ -13,12 +13,12 @@ subtitle: I create relaxing games inspired by nature
 <br/>
 I'm currenty developing a game where you build your own forest. It's a simulation sandbox game where you grow plants and design habitats for a wide range of species. You can read more about it on Steam <a href="https://store.steampowered.com/app/2718240/PolyPine/">here.</a>
 <p>
-<a href="https://store.steampowered.com/app/2718240/PolyPine/">PLAY THE DEMO ON STEAM</a>
+<a href="https://store.steampowered.com/app/2718240/PolyPine/">BUY IT ON STEAM!</a>
 </p>
 <center>
 
 <a href="https://store.steampowered.com/app/2718240/PolyPine/">
-  <img src="/assets/img/polypine_screenshot.jpg" alt="PolyPine Screenshot" style="width:300px;">
+    <img src='assets/img/thriving_forest.gif' style="max-width: 600px;">
 </a>
 </center>
 <br/>

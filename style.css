@@ -407,8 +407,8 @@ button, a {
 
 .section-heading {
     display: grid;
-    gap: 1rem;
-    grid-template-columns: minmax(0, 0.7fr) minmax(280px, 1.3fr);
+    gap: 0;
+    grid-template-columns: 1fr;
     margin-bottom: clamp(2.5rem, 6vw, 5rem);
 }
 
@@ -595,10 +595,10 @@ button, a {
     font-size: 0.78rem;
     font-weight: 700;
     inset-inline: 0;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.02em;
     padding: 2.5rem 1rem 0.9rem;
     position: absolute;
-    text-transform: uppercase;
+    text-transform: none;
 }
 
 .story-grid {
@@ -1146,15 +1146,15 @@ body::before {
 
 .section-heading {
     align-items: start;
-    gap: 4rem;
-    grid-template-columns: 1fr 1fr;
+    gap: 0;
+    grid-template-columns: 1fr;
     margin-bottom: 3rem;
 }
 
-@media (min-width: 881px) {
-    .section-heading > :nth-child(2) {
-        margin-top: 2rem;
-    }
+.section-heading .section-lede,
+.section-heading .body-copy,
+.section-heading .freeform-copy {
+    max-width: 900px;
 }
 
 .section-title {
@@ -1372,7 +1372,7 @@ footer {
     }
     .nav-links a::after { bottom: -6px; }
     .mobile-nav-home { display: list-item; }
-    .section-heading { gap: 1.5rem; grid-template-columns: 1fr; }
+    .section-heading { gap: 0; grid-template-columns: 1fr; }
     .page-hero { min-height: 390px; }
 }
 

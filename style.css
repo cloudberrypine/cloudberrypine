@@ -1060,6 +1060,11 @@ body::before {
     color: #c7d5e0;
 }
 
+.store-button-youtube {
+    background: linear-gradient(135deg, #ff0033, #d9002b);
+    box-shadow: 0 0 20px rgba(255, 0, 51, 0.4), 0 0 60px rgba(255, 0, 51, 0.14);
+}
+
 .store-button-apple {
     background: linear-gradient(135deg, #161616, #363636);
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.6), 0 0 60px rgba(0, 0, 0, 0.2);
